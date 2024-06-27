@@ -1,0 +1,17 @@
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CalculadoraIMC\bin\Debug\net6.0-windows\CalculadoraIMC.exe
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CalculadoraIMC\bin\Debug\net6.0-windows\CalculadoraIMC.deps.json
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CalculadoraIMC\bin\Debug\net6.0-windows\CalculadoraIMC.runtimeconfig.json
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CalculadoraIMC\bin\Debug\net6.0-windows\CalculadoraIMC.dll
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CalculadoraIMC\bin\Debug\net6.0-windows\CalculadoraIMC.pdb
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.Form1.resources
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.csproj.GenerateResource.cache
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.AssemblyInfo.cs
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.dll
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CalculadoraIMC\obj\Debug\net6.0-windows\refint\CalculadoraIMC.dll
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.pdb
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.genruntimeconfig.cache
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CalculadoraIMC\obj\Debug\net6.0-windows\ref\CalculadoraIMC.dll
